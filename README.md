@@ -1,0 +1,1 @@
+Common LeetCode data structure.
