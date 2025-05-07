@@ -1,4 +1,4 @@
-package ll.com.itemtest;
+package ll.com.NikeTest;
 
 // Write a class to implement a stack using arrays with methods for push, pop, and peek.
 public class ArrayStack {

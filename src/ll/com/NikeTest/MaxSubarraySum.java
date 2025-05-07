@@ -1,4 +1,4 @@
-package ll.com.itemtest;
+package ll.com.NikeTest;
 
 // Write a function that takes an array of integers and returns the maximum sum of any contiguous subarray.
 public class MaxSubarraySum {

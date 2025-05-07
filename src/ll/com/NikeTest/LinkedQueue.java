@@ -1,4 +1,4 @@
-package ll.com.itemtest;
+package ll.com.NikeTest;
 
 // Write a class to implement a queue using linked lists with methods for enqueue, dequeue, and peek.
 public class LinkedQueue {

@@ -1,4 +1,4 @@
-package ll.com.itemtest;
+package ll.com.NikeTest;
 
 // Implement a function to detect if a linked list has a cycle. If there is a cycle, return the node where the cycle begins. Otherwise, return `None`.
 public class LinkedListCycle {
